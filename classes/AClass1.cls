@@ -1,9 +1,9 @@
 public class AClass1 {
+    // changed by Oleg
     // the 1st commit
     //   upda    ted
     // updated once again
     // updated the 3rd time
-    // the 4th variable
     Integer var4 = 111; 
     //post comment
     // comment 3
